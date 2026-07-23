@@ -97,4 +97,4 @@ The `outputs/` folder contains generated visual assets:
 - `correlation_heatmap.png`
 
 ---
-*Built with ❤️ for DecodeLab Internship Project.*
+*Built with ❤️ *
